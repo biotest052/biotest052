@@ -50,9 +50,11 @@
 
 <div align="center">
 
-### 🌐 find me elsewhere
+### find me elsewhere
 
 [![Website](https://img.shields.io/badge/Website-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://biotest.dev/)
+[![Youtube](https://img.shields.io/badge/Youtube-1e1e2e?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@biotest05)
+[![Steam](https://img.shields.io/badge/Steam-1e1e2e?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/biotest05/)
 
 </div>
 
