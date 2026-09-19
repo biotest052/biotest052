@@ -23,6 +23,17 @@
 
 <div align="center">
 
+### what i work on
+
+</div>
+
+* [GTClassic](https://gtclassic.org/) - Community-first, self-hostable fork of Gorilla Tag v1.0.8 + accompanying software.
+- [spleece](https://spleece.biotest.dev/) - A free splice sample searcher.
+- [voicechat.vc](https://voicechat.vc) - An invite-only (for now) discord inspired messaging app. Its a bit buggy, but were remaking the app & backend.
+- [VRCraft](https://vrcraft.dev) - A Minecraft VR clone made in unity.
+
+<div align="center">
+
 ### github stats
 
 </div>
